@@ -7,6 +7,10 @@ public class MagicCalculator {
     public double sin(double num){
         return Math.sin(num);
     }
+    public static double log(double num){
+        return Math.log(num);
+    }
+
     public double cos(double num){
         return Math.cos(num);
     }
